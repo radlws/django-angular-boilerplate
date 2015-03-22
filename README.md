@@ -16,3 +16,8 @@
 * `$ python manage.py migrate`
 * `$ python manage.py runserver 0:8000`
 
+
+
+# TODO: https://thinkster.io/django-angularjs-tutorial/
+
+# logging users in checkpoint, not working, blank register form
